@@ -45,3 +45,23 @@
 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 |
 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 |
 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 |
+
+ ## Test cases
+ ### Inputs:
+ ```python
+src = 19  
+dest = 36
+```
+### Output:
+ ```python
+1
+```
+ ### Inputs:
+  ```python
+src = 0
+dest = 1
+```
+### Output:
+ ```python
+3
+```
