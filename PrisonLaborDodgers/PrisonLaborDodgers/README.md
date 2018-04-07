@@ -35,8 +35,10 @@ forever - remember, Commander Lambda loves efficiency!
  
  ## Test cases
  ### Inputs:
+ ```python
 x = [13,5,6,2,5]  
 y = [5,2,5,13]  
+```
 ### Output:
 6  
  ### Inputs:
