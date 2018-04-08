@@ -6,5 +6,7 @@ Infiltrating commander Lambda's evil organization
 
 ## Level 2
 [Don't Get Volunteered!](https://github.com/adamfarnsworth/foobar/tree/master/DontGetVolunteered/DontGetVolunteered)  
-[Please Pass The Coded Message](https://github.com/adamfarnsworth/foobar/tree/master/PleasePassTheCodedMessage/PleasePassTheCodedMessage)
+[Please Pass The Coded Message](https://github.com/adamfarnsworth/foobar/tree/master/PleasePassTheCodedMessage/PleasePassTheCodedMessage)  
+
+## Level 3
 
