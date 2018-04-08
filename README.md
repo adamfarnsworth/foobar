@@ -9,4 +9,4 @@ Infiltrating commander Lambda's evil organization
 [Please Pass The Coded Message](https://github.com/adamfarnsworth/foobar/tree/master/PleasePassTheCodedMessage/PleasePassTheCodedMessage)  
 
 ## Level 3
-
+[Fuel Injection Perfection](https://github.com/adamfarnsworth/foobar/tree/master/FuelInjectionPerfection/FuelInjectionPerfection) 
