@@ -1,5 +1,5 @@
 ## Level 2
-### Don't Get Volunteered!
+### Please Pass The Coded Message
 
  You need to pass a message to the bunny prisoners,
  but to avoid detection, the code you agreed to use
