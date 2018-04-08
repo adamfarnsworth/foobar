@@ -1,7 +1,7 @@
 ## Level 3
 ### Find The Access Codes  
 
-Code is from [Conchylicultor](https://github.com/Conchylicultor/GoogleFoobar/blob/master/find_the_access_codes.py)  
+Code is from [Conchylicultor](https://github.com/Conchylicultor/GoogleFoobar/blob/master/find_the_access_codes.py), my initial solution is commented at the bottom  
  
  In order to destroy Commander Lambda's LAMBCHOP doomsday
  device, you'll need access to it.  But the onlydoor leading
