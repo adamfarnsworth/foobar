@@ -24,8 +24,8 @@
  digit may appear multiple times in the list, but
  each element in the list may only be used once.  
  
-  ## Test cases
- ### Inputs:
+## Test cases
+### Inputs:
  ```python
 l = [3, 1, 4, 1]  
 ```
@@ -33,7 +33,7 @@ l = [3, 1, 4, 1]
  ```python
 4311  
 ```
- ### Inputs:
+### Inputs:
   ```python
 l = [3, 1, 4, 1, 5, 9]  
 ```
