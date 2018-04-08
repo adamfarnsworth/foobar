@@ -34,7 +34,7 @@
  express in that many digits.  
  
  For example:  
- answer(4) returns 2: 4 -> 2 -> 1
+ answer(4) returns 2: 4 -> 2 -> 1  
  answer(15) returns 5: 15 -> 16 -> 8 -> 4 -> 2 -> 1  
  
   ## Test cases
